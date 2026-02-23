@@ -9,8 +9,11 @@ To write a program to predict car prices using a linear regression model and tes
 
 ## Algorithm
 1.Load the car price dataset and select features (engine size, horsepower, mileage) and target (price).
+
 2.Split the data into training and testing sets, then standardize the feature values.
+
 3.Train a Linear Regression model using the training data and predict prices for the test data.
+
 4.Evaluate the model using performance metrics (MSE, RMSE, MAE, R²) and visualize results to check model accuracy.
 
 ## Program:
@@ -81,8 +84,11 @@ plt.tight_layout()
 
 ## Output:
 <img width="469" height="323" alt="image" src="https://github.com/user-attachments/assets/ab0e49d0-3281-4035-8471-042716c00c2f" />
+
 <img width="1255" height="589" alt="image" src="https://github.com/user-attachments/assets/6d7b3920-0d94-4106-855d-71b603149c6d" />
+
 <img width="1261" height="606" alt="image" src="https://github.com/user-attachments/assets/2f2a875b-9a96-49f8-a380-9361c8c6f6ce" />
+
 <img width="1386" height="531" alt="image" src="https://github.com/user-attachments/assets/48755ba8-d962-4657-b2ca-b529034bdc13" />
 
 
